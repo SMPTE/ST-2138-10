@@ -14,8 +14,8 @@ Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email
 The following elements are made available for a public review period ending no earlier than 2026-03-02, and no later than 2026-09-01:
 
 * [{prose element}]({link to prose element})
-* [{element #1}]({link to element #1})
-* ...
+* [https://github.com/SMPTE/st2138-a.git](url)
+* [https://smpte.github.io/st2138-a/interface/schemata/device.yaml](url)
 
 ## Details
 
