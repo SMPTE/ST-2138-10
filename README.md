@@ -28,5 +28,5 @@ Today's environments typically encompass a combination of on-premises and cloud 
 ### The Need for More Seamless Multi-Vendor Integration
 The number of devices, products, and services from a wide array of vendors can be daunting, particularly with the move to microservices. Media companies need technologies to simply work together.
 
-### Security Emerging as a Priority
-The need to secure environments and the connections between products and services in a standardized manner is a must. ST 2138-10 prioritizes the security of the transport between each device.
+### Security as a Priority
+The need to secure environments and the connections between products and services in a standardized manner is a must. ST 2138-10 defines a self-describing device model that incorporates an access control mechanism designed to scale across multiple devices from multiple vendors.
