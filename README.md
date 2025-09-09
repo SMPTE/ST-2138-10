@@ -14,8 +14,8 @@ Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email
 The following elements are made available for a public review period ending no earlier than 2026-03-02, and no later than 2026-09-01:
 
 * <a href="https://github.com/SMPTE/ST-2138-10/blob/main/34CS-PCD-ST-2138-10-Catena-Model-2025-09-08.pdf">SMPTE PCD ST 2138-10 Catena — Model</a>
-* [https://github.com/SMPTE/st2138-a.git](url)
-* [https://smpte.github.io/st2138-a/interface/schemata/device.yaml](url)
+* <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
+* <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://smpte.github.io/st2138-a/interface/schemata/device.yaml</a>
 
 ## Details
 
@@ -32,11 +32,11 @@ The number of devices, products, and services from a wide array of vendors can b
 The need to secure environments and the connections between products and services in a standardized manner is a must. ST 2138-10 defines a self-describing device model that incorporates an access control mechanism designed to scale across multiple devices from multiple vendors.
 
 ## Additional Elements
-Interface Definitions based on the model shown in this document are companion elements to this document. These can be found in the public repository covering all parts of the 2138 suite of documents at the following URL: [https://github.com/SMPTE/st2138-a.git](url)
+Interface Definitions based on the model shown in this document are companion elements to this document. These can be found in the public repository covering all parts of the 2138 suite of documents at the following URL: <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
 
 Navigate to the /interface/proto folder for the interface definitions in Protobuf 3.0. 
 
-The schemata can be found at /interface/schemata/device.yaml, but are published at the following URL: [https://smpte.github.io/st2138-a/interface/schemata/device.yaml](url) which is also the $id tag for the schemata. 
+The schemata can be found at /interface/schemata/device.yaml, but are published at the following URL: <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://smpte.github.io/st2138-a/interface/schemata/device.yaml</a>, which is also the $id tag for the schemata. 
 
 The contents of st2138-a.git are normative.
 The software version corresponding to this document revision is tagged as v1.0.0-pcd. 
