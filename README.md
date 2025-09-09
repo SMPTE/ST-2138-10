@@ -15,7 +15,7 @@ The following elements are made available for a public review period ending no e
 
 * <a href="https://github.com/SMPTE/ST-2138-10/blob/main/34CS-PCD-ST-2138-10-Catena-Model-2025-09-08.pdf">SMPTE PCD ST 2138-10 Catena — Model</a>
 * <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
-* <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml</a>
+* <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://smpte.github.io/st2138-a/interface/schemata/device.yaml</a>
 
 ## Details
 
