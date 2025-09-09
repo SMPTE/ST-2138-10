@@ -15,7 +15,7 @@ The following elements are made available for a public review period ending no e
 
 * <a href="https://github.com/SMPTE/ST-2138-10/blob/main/34CS-PCD-ST-2138-10-Catena-Model-2025-09-08.pdf">SMPTE PCD ST 2138-10 Catena — Model</a>
 * <a href="https://github.com/SMPTE/st2138-a.git">https://github.com/SMPTE/st2138-a.git</a>
-* <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://smpte.github.io/st2138-a/interface/schemata/device.yaml</a>
+* <a href="https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml">https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml</a>
 
 ## Details
 
@@ -36,7 +36,7 @@ Interface Definitions based on the model shown in this document are companion el
 
 Navigate to the /interface/proto folder for the interface definitions in Protobuf 3.0. 
 
-The schemata can be found at /interface/schemata/device.yaml, but are published at the following URL: <a href="https://smpte.github.io/st2138-a/interface/schemata/device.yaml">https://smpte.github.io/st2138-a/interface/schemata/device.yaml</a>, which is also the $id tag for the schemata. 
+The schemata can be found at /interface/schemata/device.yaml, but are published at the following URL: <a href="https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml">https://github.com/SMPTE/st2138-a/blob/main/interface/schemata/device.yaml</a>, which is also the $id tag for the schemata. 
 
 The contents of st2138-a.git are normative.
 The software version corresponding to this document revision is tagged as v1.0.0-pcd. 
