@@ -9,6 +9,8 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email address_.
 
+<!-- PCD-INFO:START -->
+
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2026-03-02, and no later than 2026-09-01:
@@ -40,3 +42,4 @@ The schemata can be found at /interface/schemata/device.yaml, but are published 
 
 The contents of st2138-a.git are normative.
 The software version corresponding to this document revision is tagged as v1.0.0-pcd. 
+<!-- PCD-INFO:END -->
